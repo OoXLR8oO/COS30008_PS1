@@ -1,0 +1,4 @@
+﻿  Polygon_PS1.cpp
+D:\SwinburneUni\DSP\Week 3\Week3Lab\Polygon_PS1.cpp(75,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\SwinburneUni\DSP\Week 3\Week3Lab\Polygon_PS1.cpp(80): warning C4715: 'Polygon::getSignedArea': not all control paths return a value
+  Week3Lab.vcxproj -> D:\SwinburneUni\DSP\Week 3\Week3Lab\x64\Debug\Week3Lab.exe
